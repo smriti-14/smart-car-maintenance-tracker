@@ -32,7 +32,7 @@ export default function PetrolPumpsScreen({ navigation }) {
       id: "4",
       name: "Shell Petrol Pump",
       address: "MG Road, Gurugram",
-      distance: "4.2 km",
+      distance: "4.3 km",
     },
   ];
 
