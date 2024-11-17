@@ -140,7 +140,7 @@ const AddEditVehicleScreen = ({ navigation }) => {
           />
         </View>
 
-        <Text style={styles.sectionTitle}>Attached Documents</Text>
+        <Text style={styles.sectionTitle}>Attached Documents </Text>
         <TouchableOpacity
           style={styles.attachmentButton}
           onPress={handleDocumentPick}
