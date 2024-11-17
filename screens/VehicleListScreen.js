@@ -14,7 +14,7 @@ const VehicleListScreen = ({ navigation }) => {
         onPress={() => navigation.navigate('VehicleListTab', { vehicle: item })}
       >
         <Text style={styles.vehicleName}>{item.name}</Text>
-        <Text style={styles.vehicleMileage}>Mileage: {item.mileage} km</Text>
+        <Text style={styles.vehicleMileage}>Mileage: {item.mileage} Km</Text>
       </TouchableOpacity>
       <TouchableOpacity
         style={styles.obdConnectButton}
