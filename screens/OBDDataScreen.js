@@ -32,7 +32,7 @@ const OBDDataScreen = ({ route }) => {
           <Text style={styles.dataValue}>{obdData.speed}</Text>
         </View>
         <View style={styles.dataCard}>
-          <Text style={styles.dataLabel}>Fuel Level:</Text>
+          <Text style={styles.dataLabel}>Fuel level:</Text>
           <Text style={styles.dataValue}>{obdData.fuelLevel}</Text>
         </View>
       </View>
