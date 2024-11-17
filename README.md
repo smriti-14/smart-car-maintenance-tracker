@@ -79,6 +79,4 @@ Congratulations! :tada:
 </html>
 
 
-# Screenshots 
 
-![combine_images](https://github.com/Shrekpepsi/Vehicle-Maintenance-App/assets/107950320/632cf40b-da76-41e9-b3b3-71b3c4290abe)
