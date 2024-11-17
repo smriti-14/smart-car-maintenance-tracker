@@ -99,3 +99,4 @@ const AppNavigator = () => {
 };
 
 export default AppNavigator;
+//exported module
