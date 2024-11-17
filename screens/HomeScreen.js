@@ -28,6 +28,7 @@ export default function HomeScreen({ navigation }) {
         </Text>
       </View>
 
+      {/* button */}
       <TouchableOpacity onPress={toggleModal} style={styles.openButton}>
         <Text style={styles.openButtonText}>Show Driving Mode</Text>
       </TouchableOpacity>
