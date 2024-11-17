@@ -16,7 +16,7 @@ export default function DrivingDashboard() {
 
       <View style={styles.specsContainer}>
         <View style={styles.specRow}>
-          <Text style={styles.specLabel}>Fuel consumption</Text>
+          <Text style={styles.specLabel}>Fuel Consumption</Text>
         </View>
         <View style={styles.specRow}>
           <Text style={styles.specLabel}>Engine</Text>
