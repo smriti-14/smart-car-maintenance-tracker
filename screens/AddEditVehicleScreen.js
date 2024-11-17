@@ -3,7 +3,7 @@ import { View, ScrollView, StyleSheet, TouchableOpacity } from "react-native";
 import { TextInput, Button, Title, Text, Checkbox } from "react-native-paper";
 import * as DocumentPicker from "expo-document-picker";
 import { FontAwesome } from "@expo/vector-icons";
-
+// services
 const servicesOptions = [
   "Air Conditioning",
   "Battery",
